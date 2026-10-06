@@ -17,4 +17,29 @@ database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
  <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div>
  </div>
 </section>
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Pembelajaran</span>
+            <h2>Fokus Pembelajaran</h2>
+        </div>
+
+        <div class="grid-3">
+            <article class="card">
+                <h3>Pengembangan Web</h3>
+                <p>Mempelajari pembuatan website dinamis.</p>
+            </article>
+
+            <article class="card">
+                <h3>Database</h3>
+                <p>Mempelajari pengelolaan data menggunakan MySQL.</p>
+            </article>
+
+            <article class="card">
+                <h3>Version Control</h3>
+                <p>Mempelajari pengelolaan kode menggunakan Git.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
